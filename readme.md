@@ -7,6 +7,7 @@ Projeto com uma lista de pacientes e a possibilidade de adicionar novos paciente
 [X] Manipulação de DOM
 [X] Consumo de API (fetch)
 [X] Uso de RegEx
+[X] Promises
 
 ## Ferramentas utilizadas
 
